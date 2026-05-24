@@ -206,3 +206,112 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - **[4th-Class]** ARXIV 2019 [LOGAN: Latent Optimisation for Generative Adversarial Networks]
 - **[4th-Class]** CVPR 2019 [Unprocessing Images for Learned Raw Denoising]
 
+## 2020 Papers
+
+- **[Survey]** 2020 Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey
+- **[Survey]** 2020 A Survey of Privacy Attacks in Machine Learning
+- **[Survey]** 2020 Learning from Noisy Labels with Deep Neural Networks: A Survey
+- **[Survey]** 2020 Optimization for Deep Learning: An Overview
+- **[Survey]** 2020 Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review
+- **[Survey]** 2020 Learning from Noisy Labels with Deep Neural Networks: A Survey
+- **[Survey]** 2020 Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective
+- **[Survey]** 2020 Efficient Transformers: A Survey
+- **[Survey]** 2020 Backdoor Learning: A Survey
+- **[Survey]** 2020 Transformers in Vision: A Survey
+- **[Survey]** 2020 A Survey on Neural Network Interpretability
+- **[Survey]** 2020 Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses
+- **[Survey]** 2020 A survey on Semi-, Self- and Unsupervised Learning for Image Classification
+- **[Attack]** ICLR Fooling Detection Alone is Not Enough: Adversarial Attack against Multiple Object Tracking
+- **[Attack]** ARXIV [Sponge Examples: Energy-Latency Attacks on Neural Networks]
+- **[Attack]** ICML [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack]
+- **[Attack]** ICML [Stronger and Faster Wasserstein Adversarial Attacks]
+- **[Attack]** CVPR [QEBA: Query-Efﬁcient Boundary-Based Blackbox Attack]
+- **[Attack]** ECCV [New Threats Against Object Detector with Non-local Block]
+- **[Attack]** ARXIV [Towards Imperceptible Universal Attacks on Texture Recognition]
+- **[Attack]** ECCV [Frequency-Tuned Universal Adversarial Attacks]
+- **[Attack]** AAAI [Learning Transferable Adversarial Examples via Ghost Networks]
+- **[Attack]** ECCV [SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking]
+- **[Attack]** Neurips [Inverting Gradients - How easy is it to break privacy in federated learning?]
+- **[Attack]** ICLR [Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks]
+- **[Attack]** NeurIPS [On Adaptive Attacks to Adversarial Example Defenses]
+- **[Attack]** AAAI [Beyond Digital Domain: Fooling Deep Learning Based Recognition System in Physical World]
+- **[Attack]** ARXIV [Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter]
+- **[Attack]** CVPR [Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles]
+- **[Attack]** CVPR [Universal Physical Camouflage Attacks on Object Detectors]
+- **[Attack]** ARXIV [Understanding Object Detection Through An Adversarial Lens]
+- **[Attack]** CIKM [Can Adversarial Weight Perturbations Inject Neural Backdoors?]
+- **[Attack]** ICCV [Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers]
+- **[Defence]** ICLR Jacobian Adversarially Regularized Networks for Robustness
+- **[Defence]** CVPR What it Thinks is Important is Important: Robustness Transfers through Input Gradients
+- **[Defence]** ICLR Adversarially Robust Representations with Smooth Encoders
+- **[Defence]** ARXIV Heat and Blur: An Effective and Fast Defense Against Adversarial Examples
+- **[Defence]** ICML Triple Wins: Boosting Accuracy, Robustness and Efficiency Together by Enabling Input-Adaptive Inference
+- **[Defence]** CVPR Wavelet Integrated CNNs for Noise-Robust Image Classification
+- **[Defence]** ARXIV Deflecting Adversarial Attacks
+- **[Defence]** ICLR Robust Local Features for Improving the Generalization of Adversarial Training
+- **[Defence]** ICLR Enhancing Transformation-Based Defenses Against Adversarial Attacks with a Distribution Classifier
+- **[Defence]** CVPR A Self-supervised Approach for Adversarial Robustness
+- **[Defence]** ICLR Improving Adversarial Robustness Requires Revisiting Misclassified Examples
+- **[Defence]** ARXIV Manifold regularization for adversarial robustness
+- **[Defence]** NeurIPS DVERGE: Diversifying Vulnerabilities for Enhanced Robust Generation of Ensembles
+- **[Defence]** ARXIV A Closer Look at Accuracy vs. Robustness
+- **[Defence]** NeurIPS Energy-based Out-of-distribution Detection
+- **[Defence]** ARXIV Out-of-Distribution Generalization via Risk Extrapolation (REx)
+- **[Defence]** CVPR Adversarial Examples Improve Image Recognition
+- **[Defence]** ICML [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks]
+- **[Defence]** ICML [Efficiently Learning Adversarially Robust Halfspaces with Noise]
+- **[Defence]** ICML [Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability]
+- **[Defence]** ICML [Friendly Adversarial Training: Attacks Which Do Not Kill Training Make Adversarial Learning Stronger]
+- **[Defence]** ICML [Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization]
+- **[Defence]** ICML [Overfitting in adversarially robust deep learning]
+- **[Defence]** ICML [Proper Network Interpretability Helps Adversarial Robustness in Classification]
+- **[Defence]** ICML [Randomization matters How to defend against strong adversarial attacks]
+- **[Defence]** ICML [Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks]
+- **[Defence]** ICML [Towards Understanding the Regularization of Adversarial Robustness on Neural Networks]
+- **[Defence]** CVPR [Defending Against Universal Attacks Through Selective Feature Regeneration]
+- **[Defence]** ARXIV [Understanding and improving fast adversarial training]
+- **[Defence]** ARXIV [Cat: Customized adversarial training for improved robustness]
+- **[Defence]** ICLR [MMA Training: Direct Input Space Margin Maximization through Adversarial Training]
+- **[Defence]** ARXIV [Bridging the performance gap between fgsm and pgd adversarial training]
+- **[Defence]** CVPR [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization]
+- **[Defence]** ARXIV [Towards understanding fast adversarial training]
+- **[Defence]** ARXIV [Overfitting in adversarially robust deep learning]
+- **[Defence]** ICLR [Robust local features for improving the generalization of adversarial training]
+- **[Defence]** ICML [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks]
+- **[Defence]** ARXIV [Regularizers for single-step adversarial training]
+- **[Defence]** CVPR [Single-step adversarial training with dropout scheduling]
+- **[Defence]** ICLR [Improving Adversarial Robustness Requires Revisiting Misclassified Examples]
+- **[Defence]** ARXIV [Fast is better than free: Revisiting adversarial training.]
+- **[Defence]** ARXIV [On the Generalization Properties of Adversarial Training]
+- **[Defence]** ARXIV [A closer look at accuracy vs. robustness]
+- **[Defence]** ICLR [Adversarially robust transfer learning]
+- **[Defence]** ARXIV [On Saliency Maps and Adversarial Robustness]
+- **[Defence]** ARXIV [On Detecting Adversarial Inputs with Entropy of Saliency Maps]
+- **[Defence]** ARXIV [Detecting Adversarial Perturbations with Saliency]
+- **[Defence]** ARXIV [Detection Defense Against Adversarial Attacks with Saliency Map]
+- **[Defence]** ARXIV [Model-based Saliency for the Detection of Adversarial Examples]
+- **[Defence]** CVPR [Auxiliary Training: Towards Accurate and Robust Models]
+- **[Defence]** CVPR [Single-step Adversarial training with Dropout Scheduling]
+- **[Defence]** CVPR [Achieving Robustness in the Wild via Adversarial Mixing With Disentangled Representations]
+- **[Defence]** ICML Test-Time Training with Self-Supervision for Generalization under Distribution Shifts
+- **[Defence]** NeurIPS [Improving robustness against common corruptions by covariate shift adaptation]
+- **[Defence]** CCS [Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks]
+- **[Defence]** ECCV [A simple way to make neural networks robust against diverse image corruptions]
+- **[Defence]** CVPRW [Role of Spatial Context in Adversarial Robustness for Object Detection]
+- **[Defence]** WACV [Local Gradients Smoothing: Defense against localized adversarial attacks]
+- **[Defence]** NeurIPS [Adversarial Weight Perturbation Helps Robust Generalization]
+- **[Defence]** MM [DIPDefend: Deep Image Prior Driven Defense against Adversarial Examples]
+- **[Defence]** ECCV [Adversarial Data Augmentation via Deformation Statistics]
+- **[4th-Class]** ICLR 2020 Robust And Interpretable Blind Image Denoising Via Bias-Free Convolutional Neural Networks
+- **[4th-Class]** ICLR 2020 Pay Attention to Features, Transfer Learn Faster CNNs
+- **[4th-Class]** ICLR 2020 On Robustness of Neural Ordinary Differential Equations
+- **[4th-Class]** ICLR 2020 Contrastive Representation Distillation
+- **[4th-Class]** ARXIV 2020 Supervised Contrastive Learning
+- **[4th-Class]** CVPR 2020 High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks
+- **[4th-Class]** ARXIV 2020 [An Adversarial Approach for Explaining the Predictions of Deep Neural Networks]
+- **[4th-Class]** ICML 2020 [Margin-aware Adversarial Domain Adaptation with Optimal Transport]
+- **[4th-Class]** ICML 2020 [Representation Learning Using Adversarially-Contrastive Optimal Transport]
+- **[4th-Class]** TPAMI 2020 [Image Quality Assessment: Unifying Structure and Texture Similarity]
+- **[4th-Class]** CVPR 2020 [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion]
+- **[4th-Class]** ICML 2020 [Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources]
+
