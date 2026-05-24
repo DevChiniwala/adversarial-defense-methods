@@ -1,0 +1,38 @@
+name: Automated arXiv Scraper
+
+on:
+  schedule:
+    # Run at 00:00 on the 1st of every month
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  scrape-arxiv:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Run arXiv Scraper
+        run: python scripts/arxiv_scraper.py
+        
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Automated: Add latest arXiv papers for review"
+          title: "🤖 Monthly arXiv Update: New Papers to Review"
+          body: |
+            This PR contains the latest pre-prints from arXiv related to Adversarial Machine Learning.
+            
+            Please review the generated markdown file in the `monthly_updates/` directory. If any papers meet the quality threshold, fill out their Motivation and Contribution sections and move them to their respective year folders.
+          branch: "automated/arxiv-monthly-update"
+          delete-branch: true
+          labels: "automated update, review needed"
