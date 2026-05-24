@@ -103,3 +103,106 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - **[4th-Class]** ICLR 2018 [Spectral Normalization for Generative Adversarial Networks]
 - **[4th-Class]** NIPS 2018 [MetaGAN: An Adversarial Approach to Few-Shot Learning]
 
+## 2019 Papers
+
+- **[Survey]** TNNLS 2019 Adversarial Examples: Attacks and Defenses for Deep Learning
+- **[Survey]** 2019 Adversarial Attacks and Defenses in Images, Graphs and Text: A Review
+- **[Survey]** 2019 A Study of Black Box Adversarial Attacks in Computer Vision
+- **[Survey]** 2019 Adversarial Examples in Modern Machine Learning: A Review
+- **[Survey]** 2019 Adversarial attack and defense in reinforcement learning-from AI security view
+- **[Survey]** 2019 A Survey of Black-Box Adversarial Attacks on Computer Vision Models
+- **[Survey]** 2019 Advances and Open Problems in Federated Learning
+- **[Attack]** CVPR Feature Space Perturbations Yield More Transferable Adversarial Examples
+- **[Attack]** ICLR The Limitations of Adversarial Training and the Blind-Spot Attack
+- **[Attack]** ICLR Are adversarial examples inevitable?
+- **[Attack]** IEEE TEC One pixel attack for fooling deep neural networks
+- **[Attack]** ARXIV Generalizable Adversarial Attacks Using Generative Models
+- **[Attack]** ICML NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks
+- **[Attack]** ARXIV SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing
+- **[Attack]** CVPR Rob-GAN: Generator, Discriminator, and Adversarial Attacker
+- **[Attack]** ARXIV Cycle-Consistent Adversarial {GAN:} the integration of adversarial attack and defense
+- **[Attack]** ARXIV Generating Realistic Unrestricted Adversarial Inputs using Dual-Objective {GAN} Training
+- **[Attack]** ICCV Sparse and Imperceivable Adversarial Attacks
+- **[Attack]** ARXIV Perturbations are not Enough: Generating Adversarial Examples with Spatial Distortions
+- **[Attack]** ARXIV Joint Adversarial Training: Incorporating both Spatial and Pixel Attacks
+- **[Attack]** IJCAI Transferable Adversarial Attacks for Image and Video Object Detection
+- **[Attack]** TPAMI Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations
+- **[Attack]** CVPR Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses
+- **[Attack]** CVPR [FDA: Feature Disruptive Attack]
+- **[Attack]** ARXIV [SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations]
+- **[Attack]** CVPR [SparseFool: a few pixels make a big difference]
+- **[Attack]** ICLR [Adversarial Attacks on Graph Neural Networks via Meta Learning]
+- **[Attack]** NeurIPS [Deep Leakage from Gradients]
+- **[Attack]** CCS [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning]
+- **[Attack]** ICCV [Universal Perturbation Attack Against Image Retrieval]
+- **[Attack]** ICCV [Enhancing Adversarial Example Transferability with an Intermediate Level Attack]
+- **[Attack]** CVPR [Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks]
+- **[Attack]** ICLR [ADef: an Iterative Algorithm to Construct Adversarial Deformations]
+- **[Attack]** Neurips [iDLG: Improved deep leakage from gradients.]
+- **[Attack]** ARXIV [Reversible Adversarial Attack based on Reversible Image Transformation]
+- **[Attack]** CCS [Seeing isn’t Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors]
+- **[Attack]** NeurIPS [Learning to Confuse: Generating Training Time Adversarial Data with Auto-Encoder]
+- **[Defence]** NIPS Adversarial Training and Robustness for Multiple Perturbations
+- **[Defence]** NIPS Adversarial Robustness through Local Linearization
+- **[Defence]** CVPR Retrieval-Augmented Convolutional Neural Networks against Adversarial Examples
+- **[Defence]** CVPR Feature Denoising for Improving Adversarial Robustness
+- **[Defence]** NEURIPS A New Defense Against Adversarial Images: Turning a Weakness into a Strength
+- **[Defence]** ICML Interpreting Adversarially Trained Convolutional Neural Networks
+- **[Defence]** ICLR Robustness May Be at Odds with Accuracy
+- **[Defence]** IJCAI Improving the Robustness of Deep Neural Networks via Adversarial Training with Triplet Loss
+- **[Defence]** ICML Adversarial Examples Are a Natural Consequence of Test Error in Noise
+- **[Defence]** ICML On the Connection Between Adversarial Robustness and Saliency Map Interpretability
+- **[Defence]** NeurIPS Metric Learning for Adversarial Robustness
+- **[Defence]** ARXIV Defending Adversarial Attacks by Correcting logits
+- **[Defence]** ICCV Adversarial Learning With Margin-Based Triplet Embedding Regularization
+- **[Defence]** ICCV CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising
+- **[Defence]** NIPS Adversarial Examples Are Not Bugs, They Are Features
+- **[Defence]** ICML Using Pre-Training Can Improve Model Robustness and Uncertainty
+- **[Defence]** NIPS Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training
+- **[Defence]** ICCV Improving Adversarial Robustness via Guided Complement Entropy
+- **[Defence]** NIPS Robust Attribution Regularization
+- **[Defence]** NIPS Are Labels Required for Improving Adversarial Robustness?
+- **[Defence]** ICLR Theoretically Principled Trade-off between Robustness and Accuracy
+- **[Defence]** CVPR [Adversarial defense by stratified convolutional sparse coding]
+- **[Defence]** ICML [On the Convergence and Robustness of Adversarial Training]
+- **[Defence]** CVPR [Robustness via Curvature Regularization, and Vice Versa]
+- **[Defence]** CVPR [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples]
+- **[Defence]** ICML [Improving Adversarial Robustness via Promoting Ensemble Diversity]
+- **[Defence]** ICML [Towards the first adversarially robust neural network model on {MNIST}]
+- **[Defence]** NIPS [Unlabeled Data Improves Adversarial Robustness]
+- **[Defence]** ICCV [Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks]
+- **[Defence]** ICML [Using Pre-Training Can Improve Model Robustness and Uncertainty]
+- **[Defence]** ARXIV [Improving adversarial robustness of ensembles with diversity training]
+- **[Defence]** ICML [Adversarial Robustness Against the Union of Multiple Perturbation Models]
+- **[Defence]** CVPR [Robustness via Curvature Regularization, and Vice Versa]
+- **[Defence]** NIPS [Robustness to Adversarial Perturbations in Learning from Incomplete Data]
+- **[Defence]** ICML [Improving Adversarial Robustness via Promoting Ensemble Diversity]
+- **[Defence]** NIPS [Adversarial Robustness through Local Linearization]
+- **[Defence]** ARXIV [Adversarial training can hurt generalization]
+- **[Defence]** NIPS [Adversarial training for free!]
+- **[Defence]** ICLR [Improving the generalization of adversarial training with domain adaptation]
+- **[Defence]** CVPR [Disentangling Adversarial Robustness and Generalization]
+- **[Defence]** NIPS [Adversarial Training and Robustness for Multiple Perturbations]
+- **[Defence]** ICCV [Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks]
+- **[Defence]** ICML [On the Convergence and Robustness of Adversarial Training]
+- **[Defence]** ICML [Rademacher Complexity for Adversarially Robust Generalization]
+- **[Defence]** ARXIV [Adversarially Robust Generalization Just Requires More Unlabeled Data]
+- **[Defence]** ARXIV [You only propagate once: Accelerating adversarial training via maximal principle]
+- **[Defence]** NIPS Cross-Domain Transferability of Adversarial Perturbations
+- **[Defence]** ARXIV [Adversarial Robustness as a Prior for Learned Representations]
+- **[Defence]** ICLR [Structured Adversarial Attack: Towards General Implementation and Better Interpretability]
+- **[Defence]** ICLR [Defensive Quantization: When Efficiency Meets Robustness]
+- **[Defence]** NeurIPS [A New Defense Against Adversarial Images: Turning a Weakness into a Strength]
+- **[4th-Class]** ARXIV 2019 Natural Adversarial Examples
+- **[4th-Class]** ICCV 2019 SinGAN: Learning a Generative Model From a Single Natural Image
+- **[4th-Class]** ICCV 2019 Real Image Denoising With Feature Attention
+- **[4th-Class]** ARXIV 2019 Rethinking Data Augmentation: Self-Supervision and Self-Distillation
+- **[4th-Class]** ICCV 2019 Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation
+- **[4th-Class]** ARXIV 2019 Adversarially Robust Distillation
+- **[4th-Class]** ARXIV 2019 Knowledge Distillation from Internal Representations
+- **[4th-Class]** ARXIV 2019 A Closer Look at Double Backpropagation
+- **[4th-Class]** ICML 2019 Noise2Self: Blind Denoising by Self-Supervision
+- **[4th-Class]** ARXIV 2019 [Breaking the cycle -- Colleagues are all you need]
+- **[4th-Class]** ARXIV 2019 [LOGAN: Latent Optimisation for Generative Adversarial Networks]
+- **[4th-Class]** CVPR 2019 [Unprocessing Images for Learned Raw Denoising]
+
