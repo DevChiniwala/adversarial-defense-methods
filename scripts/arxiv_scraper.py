@@ -1,16 +1,28 @@
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
 import datetime
 import os
+import time
 
 def fetch_arxiv_papers():
     # Search for papers containing "adversarial" AND ("machine learning" OR "deep learning" OR "neural network")
-    # from the last 30 days
     query = 'all:"adversarial" AND (all:"machine learning" OR all:"deep learning" OR all:"neural network")'
     url = f'http://export.arxiv.org/api/query?search_query={urllib.parse.quote(query)}&sortBy=submittedDate&sortOrder=descending&max_results=10'
     
+    # ArXiv API requires respectful usage. We add a custom User-Agent and a 3-second delay to comply with their ethical guidelines.
+    time.sleep(3) 
+    
+    req = urllib.request.Request(
+        url, 
+        data=None, 
+        headers={
+            'User-Agent': 'Adversarial-Defense-Methods-Bot/1.0 (https://github.com/DevChiniwala/adversarial-defense-methods)'
+        }
+    )
+    
     try:
-        response = urllib.request.urlopen(url)
+        response = urllib.request.urlopen(req)
         data = response.read()
         root = ET.fromstring(data)
         
@@ -26,7 +38,6 @@ def fetch_arxiv_papers():
             authors = [author.find('atom:name', namespace).text for author in entry.findall('atom:author', namespace)]
             author_str = " and ".join(authors)
             
-            # Create a simple bibtex id
             bibtex_id = f"{authors[0].split()[-1].lower()}{published[:4]}{title.split()[0].lower()}"
             
             papers.append({
@@ -59,6 +70,7 @@ def format_paper(paper):
     return markdown
 
 def main():
+    print("Initiating compliant arXiv API request...")
     papers = fetch_arxiv_papers()
     if not papers:
         print("No papers found or error occurred.")
@@ -72,6 +84,7 @@ def main():
     
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# Monthly arXiv Paper Suggestions ({current_date})\n\n")
+        f.write("> **Data Attribution:** This data is sourced from the official [arXiv API](https://arxiv.org/help/api). We acknowledge and thank arXiv for providing open-access metadata to the research community.\n\n")
         f.write("> **Note to Maintainer:** Here are the latest pre-prints related to Adversarial ML. Review these, fill out the Motivation and Contribution bullet points, and move them to their respective year directories if they meet the repository's quality threshold.\n\n")
         
         for paper in papers:
