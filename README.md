@@ -290,7 +290,7 @@ Contributions are highly welcome! If you know of a high-impact paper that is mis
 
 ## ⚖️ Legal & Ethical Notice
 
-> This repository is a **curated bibliography and research guide**. It does **not** host, distribute, or reproduce any copyrighted material (such as PDFs or full-text articles). All entries contain only bibliographic metadata (titles, authors, venues), original summaries written by contributors, and links to the authors' official publications. This constitutes fair use under academic and research norms.
+> This repository is a **curated bibliography and research guide**. It does **not** host, distribute, or reproduce any copyrighted material (such as PDFs or full-text articles). This repository is intended for educational and research purposes and only includes bibliographic metadata, contributor-written summaries, and links to official sources.
 >
 > **Data Attribution:** The automated monthly update system utilizes the official [arXiv API](https://arxiv.org/help/api) in full compliance with their terms of use, including custom User-Agent headers, strict rate-limiting, and direct linkage. We acknowledge and thank arXiv for providing open-access metadata to the research community.
 
