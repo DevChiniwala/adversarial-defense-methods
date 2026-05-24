@@ -479,3 +479,12 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - [NIST AI 100-2e2025: Adversarial Machine Learning — A Taxonomy and Terminology of Attacks and Mitigations] (2025)
 - [Robustness of Vision-Language State Space Models against Adversarial Patches] (CVPR 2025)
 
+## 2026 Papers
+
+- [Adversarial Defense in Vision-Language Models: An Overview] (arXiv:2601.12443, 2026)
+- [Adversarial attacks against Modern Vision-Language Models in E-commerce] (2026)
+- [AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models] (2026)
+- [Chain of Attack: Robustness of VLMs Against Transfer-Based Attacks] (2026)
+- [Denoising Diffusion Sampling (DDS): Adversarial Attack and Defense Methodologies] (2026)
+- [Interactive Deep Reinforcement Learning for Adversarial Defense Optimization] (2026)
+
