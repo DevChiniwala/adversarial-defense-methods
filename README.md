@@ -411,3 +411,19 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - **[4th-Class]** ICLR 2021 [Free Lunch for Few-shot Learning: Distribution Calibration]
 - **[4th-Class]** ICLR 2021 [WHAT SHOULD NOT BE CONTRASTIVE IN CONTRASTIVE LEARNING]
 
+## 2022 Papers
+
+- **[Attack]** ICLR [ON IMPROVING ADVERSARIAL TRANSFERABILITY OF VISION TRANSFORMERS]
+- **[Attack]** TIFS [Decision-based Adversarial Attack with Frequency Mixup]
+- **[Defence]** ARXIV [$\alpha$ Weighted Federated Adversarial Training]
+- **[Defence]** AAAI [Safe Distillation Box]
+- **[Defence]** USENIX [Transferring Adversarial Robustness Through Robust Representation Matching]
+- **[Defence]** ARXIV [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition]
+- **[Defence]** ARXIV [IMPROVING ADVERSARIAL DEFENSE WITH SELF SUPERVISED TEST-TIME FINE-TUNING]
+- **[Defence]** ARXIV [Exploring Memorization in Adversarial Training]
+- **[Defence]** IJCV [Open-Set Adversarial Defense with Clean-Adversarial Mutual Learning]
+- **[Defence]** ARXIV [Adversarial Detection and Correction by Matching Prediction Distribution]
+- **[Defence]** ARXIV [Enhancing Adversarial Training with Feature Separability]
+- **[Defence]** ARXIV [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients]
+- **[4th-Class]** ARXIV 2022 [Debugging Differential Privacy: A Case Study for Privacy Auditing]
+
