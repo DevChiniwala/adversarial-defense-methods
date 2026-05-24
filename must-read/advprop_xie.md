@@ -1,10 +1,32 @@
-# 7. Adversarial Examples Improve Image Recognition (Xie et al., 2020)
+# Adversarial Examples Improve Image Recognition
 
-## 🤔 Why You Must Read This Paper
-Historically, adversarial training made models robust but caused a severe drop in standard accuracy (how well it predicts clean images). Xie and team challenged this assumption. This paper is fascinating because it turns adversarial examples from a 'threat' into a 'feature' that actually improves the model.
+**Authors:** Cihang Xie, Mingxing Tan, Boqing Gong, Jiang Wang, Alan Yuille, Quoc V. Le
+**Venue:** CVPR
+**Year:** 2020
+**Official Paper:** [arXiv:1911.09665](https://arxiv.org/abs/1911.09665)
+**Official Code:** [GitHub](https://github.com/microsoft/AdvProp)
 
-## 💡 What It Contributed to the Field
-It introduced AdvProp, a training scheme that uses separate batch normalization layers for clean and adversarial images. This allowed adversarial examples to act as a powerful regularizer, actively improving the model's performance on clean data and achieving State-of-the-Art on ImageNet.
+## Why This Paper Matters
+Historically, adversarial training caused a severe drop in standard accuracy (the 'robustness vs. accuracy trade-off'). Xie and team challenged this assumption, turning adversarial examples from a threat into a feature.
+
+## Core Idea
+Adversarial examples have different underlying distributions than clean images. By using auxiliary Batch Normalization (BN) layers specifically for adversarial examples during training, the model can learn from them without degrading clean features.
+
+## What It Changed in the Field
+It introduced AdvProp, proving that adversarial examples can act as a powerful regularizer that actively improves the model's performance on clean data, achieving State-of-the-Art on ImageNet.
+
+## Limitations
+Training with AdvProp requires generating adversarial examples on the fly, which drastically increases the computational cost of training standard models.
+
+## Modern Impact
+It fundamentally changed how researchers view adversarial examples—not just as bugs, but as highly informative data points that can force models to learn better, more generalized representations.
+
+## Recommended Before Reading
+[Towards Deep Learning Models Resistant to Adversarial Attacks](./resistant_models_madry.md)
+
+## Recommended After Reading
+Modern Domain Generalization literature.
 
 ---
-> *This summary is a humanized, educational analysis written to guide newcomers through the most foundational concepts in Adversarial Machine Learning without relying on copyrighted abstracts or academic jargon.*
+> **Educational Note:**
+> This summary is an original educational interpretation written to help readers understand the historical importance and core contribution of the paper. Please refer to the official publication for the complete methodology and results.
