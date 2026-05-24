@@ -463,3 +463,19 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - [Benchmarking Zero-Shot Robustness of Multimodal Foundation Models] (2024)
 - [On the Adversarial Robustness of Diffusion Models] (2024)
 
+## 2025 Papers
+
+- [Beyond Vulnerabilities: A Survey of Adversarial Attacks as Both Threats and Defenses in Computer Vision Systems] (2025)
+- [A Survey of Recent Advances in Adversarial Attack and Defense on Vision-Language Models] (2025)
+- [Mind the Gap: Detecting Black-box Adversarial Attacks in the Making through Query Update Analysis] (CVPR 2025)
+- [SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models] (CVPR 2025)
+- [PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers] (2025)
+- [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients] (CVPR 2025)
+- [MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework] (CVPR 2025)
+- [Seeing is Not Believing: Adversarial Natural Object Optimization for Hard-Label 3D Scene Attacks] (CVPR 2025)
+- [Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attack on Breast Ultrasound Images] (CVPR 2025)
+- [A Unified, Resilient, and Explainable Adversarial Patch Detector (AdvPatchXAI)] (CVPR 2025)
+- [Adversarial Diffusion Compression for Real-World Image Super-Resolution] (CVPR 2025)
+- [NIST AI 100-2e2025: Adversarial Machine Learning — A Taxonomy and Terminology of Attacks and Mitigations] (2025)
+- [Robustness of Vision-Language State Space Models against Adversarial Patches] (CVPR 2025)
+
