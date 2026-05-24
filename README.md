@@ -427,3 +427,21 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - **[Defence]** ARXIV [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients]
 - **[4th-Class]** ARXIV 2022 [Debugging Differential Privacy: A Case Study for Privacy Auditing]
 
+## 2023 Papers
+
+- [The Best Defense Is a Good Offense: Adversarial Augmentation Against Adversarial Attacks (A5)] (CVPR 2023)
+- [ScoreOpt: Enhancing Adversarial Robustness via Score-Based Optimization] (NeurIPS 2023)
+- [RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation With Natural Prompts] (CVPR 2023)
+- [SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples] (CVPR 2023)
+- [Generalized Manifold Adversarial Attack for Face Recognition] (CVPR 2023)
+- [Towards Compositional Adversarial Robustness: Generalizing Adversarial Training to Composite Semantic Perturbations] (CVPR 2023)
+- [Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness] (NeurIPS 2023)
+- [NIST AI 100-2e2023: Adversarial Machine Learning — A Taxonomy and Terminology] (NIST)
+- [Introducing Competition To Boost the Transferability of Targeted Adversarial Examples Through Clean Feature Mixup] (CVPR 2023)
+- [Evaluating the Robustness of Text-to-Image Diffusion Models against Real-World Attacks] (ICCV 2023)
+- [Are Vision-Language Models Robust against Adversarial Attacks?] (2023)
+- [Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization] (CVPR 2023)
+- [RobustBench: A Standardized Adversarial Robustness Benchmark] (2023 Updates)
+- [Defending Against Patch Attacks with Object-Aware Robustness] (2023)
+- [Understanding Adversarial Robustness of Vision-Language Models via Prompt Tuning] (2023)
+
