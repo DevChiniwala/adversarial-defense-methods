@@ -445,3 +445,21 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - [Defending Against Patch Attacks with Object-Aware Robustness] (2023)
 - [Understanding Adversarial Robustness of Vision-Language Models via Prompt Tuning] (2023)
 
+## 2024 Papers
+
+- [Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay] (CVPR 2024)
+- [Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM] (CVPR 2024)
+- [R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning] (CVPR 2024)
+- [PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models] (CVPR 2024)
+- [3D Depth Fool: Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving] (CVPR 2024)
+- [SlowFormer: Adversarial Attack on Compute and Energy Consumption of Efficient Vision Transformers] (CVPR 2024)
+- [Strong Transferable Adversarial Attacks via Ensembled Asymptotically Normal Distribution Learning] (CVPR 2024)
+- [Physical Adversarial Attack Meets Computer Vision: A Decade Survey] (IEEE TPAMI 2024)
+- [A Survey of Adversarial Examples in Computer Vision: Attack, Defense, and Beyond] (2024)
+- [Adversarial Attacks on Machine Learning-Aided Visualizations] (2024)
+- [Enhancing Targeted Attack Transferability via Diversified Weight Pruning] (CVPR 2024)
+- [Unlearning Backdoor Threats in Multimodal Contrastive Learning] (CVPR 2024)
+- [Adversarial attacks against Neural Radiance Fields (NeRFs)] (2024)
+- [Benchmarking Zero-Shot Robustness of Multimodal Foundation Models] (2024)
+- [On the Adversarial Robustness of Diffusion Models] (2024)
+
