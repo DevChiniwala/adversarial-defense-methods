@@ -68,6 +68,23 @@ graph TD
 
 <br/>
 
+## 🏆 Start Here: The Top 10 Must-Read Papers
+
+If you are new to Adversarial Machine Learning, the 400+ papers in this repository can be overwhelming. We have curated the **Top 10 most influential papers in the history of the field**. Each paper has a dedicated, humanized summary explaining exactly *why* you need to read it and *what* it contributed.
+
+1. [Intriguing properties of neural networks (Szegedy et al., 2013)](./must-read/intriguing_properties_szegedy.md) - The discovery of adversarial examples.
+2. [Explaining and Harnessing Adversarial Examples (Goodfellow et al., 2014)](./must-read/explaining_and_harnessing_goodfellow.md) - The invention of FGSM.
+3. [Towards Evaluating the Robustness of Neural Networks (Carlini & Wagner, 2017)](./must-read/evaluating_robustness_cw.md) - The ultimate attack benchmark.
+4. [Towards Deep Learning Models Resistant to Adversarial Attacks (Madry et al., 2017)](./must-read/resistant_models_madry.md) - PGD-based adversarial training.
+5. [Obfuscated Gradients Give a False Sense of Security (Athalye et al., 2018)](./must-read/obfuscated_gradients_athalye.md) - Breaking flawed defenses.
+6. [Certified Adversarial Robustness via Randomized Smoothing (Cohen et al., 2019)](./must-read/randomized_smoothing_cohen.md) - Provable mathematical guarantees.
+7. [Adversarial Examples Improve Image Recognition (Xie et al., 2020)](./must-read/advprop_xie.md) - Using attacks to improve clean accuracy.
+8. [Universal and Transferable Adversarial Attacks on Aligned Language Models (Zou et al., 2023)](./must-read/gcg_llm_jailbreak_zou.md) - The breakthrough LLM jailbreak (GCG).
+9. [Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models (Shan et al., 2024)](./must-read/nightshade_shan.md) - Using poisoning to protect artist copyrights.
+10. [Systematization of Agentic LLM Defenses (2026)](./must-read/agentic_llm_defenses_2026.md) - Securing autonomous AI agents.
+
+<br/>
+
 ## 📚 Browse by Year
 
 Click on any year below to explore the full, categorized list of papers and their individual summaries:
