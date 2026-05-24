@@ -1,5 +1,7 @@
 <div align="center">
 
+![Adversarial Defense Methods Banner](asset/banner.png)
+
 # 🛡️ Adversarial Defense Methods
 
 ### The World's Most Comprehensive Archive of Adversarial Machine Learning Research
