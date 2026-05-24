@@ -33,3 +33,27 @@ A comprehensive list of highly cited and notable papers on adversarial attacks a
 - **[4th-Class]** ICML 2016 Autoencoding beyond pixels using a learned similarity metric
 - **[4th-Class]** CVPR 2016 Learning Deep Features for Discriminative Localization
 
+## 2017 Papers
+
+- **[Attack]** ICLR Delving into Transferable Adversarial Examples and Black-box Attacks
+- **[Attack]** CVPR Universal Adversarial Perturbations
+- **[Attack]** ICCV Adversarial Examples for Semantic Segmentation and Object Detection
+- **[Attack]** ARXIV Adversarial Examples that Fool Detectors
+- **[Attack]** CVPR A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection
+- **[Attack]** ICCV Adversarial Examples Detection in Deep Networks with Convolutional Filter Statistics
+- **[Attack]** AIS [Adversarial examples are not easily detected: Bypassing ten detection methods]
+- **[Attack]** ICCV UNIVERSAL [Universal Adversarial Perturbations Against Semantic Image Segmentation]
+- **[Attack]** ICLR [Adversarial Machine Learning at Scale]
+- **[Attack]** ARXIV [The space of transferable adversarial examples]
+- **[Attack]** ARXIV [Adversarial attacks on neural network policies]
+- **[Defence]** ARXIV Countering Adversarial Images using Input Transformations
+- **[Defence]** ICCV [SafetyNet: Detecting and Rejecting Adversarial Examples Robustly]
+- **[Defence]** Arxiv Detecting adversarial samples from artifacts
+- **[Defence]** ICLR On Detecting Adversarial Perturbations
+- **[Defence]** ASIA CCS [Practical black-box attacks against machine learning]
+- **[Defence]** ARXIV [The space of transferable adversarial examples]
+- **[Defence]** ICCV [Adversarial Examples for Semantic Segmentation and Object Detection]
+- **[4th-Class]** ICCV 2017 CVAE-GAN: Fine-Grained Image Generation Through Asymmetric Training
+- **[4th-Class]** ICML 2017 Conditional Image Synthesis with Auxiliary Classifier {GAN}s
+- **[4th-Class]** NIPS 2017 [Counterfactual Fairness]
+
