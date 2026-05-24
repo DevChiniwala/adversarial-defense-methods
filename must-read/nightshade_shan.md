@@ -6,6 +6,8 @@
 **Official Paper:** [arXiv:2310.13828](https://arxiv.org/abs/2310.13828)
 **Official Code:** [Project Page](https://nightshade.cs.uchicago.edu/)
 
+---
+
 ## Why This Paper Matters
 As Generative AI exploded, artists were furious that their work was scraped for training data without consent. This paper flipped adversarial ML into an offensive weapon *for* the public to protect their copyright.
 
@@ -14,6 +16,9 @@ Artists can invisibly alter the pixels of their digital art before uploading it 
 
 ## What It Changed in the Field
 It introduced highly effective data poisoning at the dataset-scraping level. It represented a huge shift in the ethical application of adversarial attacks—from 'breaking security' to 'enforcing copyright'.
+
+## Key Takeaway
+Adversarial data poisoning can be weaponized as an ethical defense mechanism to protect human creators against unauthorized data scraping by massive AI models.
 
 ## Limitations
 The poisoning effect requires a critical mass of poisoned images to successfully corrupt a massive foundational model.
@@ -28,5 +33,6 @@ Basic understanding of Diffusion Models and Data Poisoning.
 Literature on AI Copyright and Watermarking.
 
 ---
+
 > **Educational Note:**
 > This summary is an original educational interpretation written to help readers understand the historical importance and core contribution of the paper. Please refer to the official publication for the complete methodology and results.

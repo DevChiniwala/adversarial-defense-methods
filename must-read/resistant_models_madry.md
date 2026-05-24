@@ -6,6 +6,8 @@
 **Official Paper:** [arXiv:1706.06083](https://arxiv.org/abs/1706.06083)
 **Official Code:** [GitHub](https://github.com/MadryLab/mnist_challenge)
 
+---
+
 ## Why This Paper Matters
 This is arguably the most important paper on *defending* neural networks. It formulated the adversarial robustness problem as a massive min-max optimization game, providing the blueprint for how modern robust AI is trained.
 
@@ -14,6 +16,9 @@ Robust training is a min-max game: the inner maximization finds the strongest ad
 
 ## What It Changed in the Field
 It introduced PGD as the 'ultimate' first-order adversary. It proved that training a model against PGD (PGD-Adversarial Training) was the most effective way to achieve empirical robustness.
+
+## Key Takeaway
+Empirical robustness is achievable, but it requires brute-force optimization; training against the strongest possible first-order adversary (PGD) is the key to defense.
 
 ## Limitations
 Adversarial training using PGD is immensely computationally expensive, often taking 3-10 times longer than standard training.
@@ -28,5 +33,6 @@ PGD-AT is still the fundamental baseline against which all new empirical defense
 [Certified Adversarial Robustness via Randomized Smoothing](./randomized_smoothing_cohen.md)
 
 ---
+
 > **Educational Note:**
 > This summary is an original educational interpretation written to help readers understand the historical importance and core contribution of the paper. Please refer to the official publication for the complete methodology and results.

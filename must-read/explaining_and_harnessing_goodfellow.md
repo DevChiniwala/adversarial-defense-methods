@@ -6,6 +6,8 @@
 **Official Paper:** [arXiv:1412.6572](https://arxiv.org/abs/1412.6572)
 **Official Code:** N/A (Foundational Algorithm)
 
+---
+
 ## Why This Paper Matters
 While Szegedy discovered the vulnerability, Ian Goodfellow provided the most elegant, widely accepted explanation for *why* it happens and introduced the absolute baseline attack that everyone learns first.
 
@@ -14,6 +16,9 @@ Neural networks are actually too linear, not too non-linear. In high-dimensional
 
 ## What It Changed in the Field
 It introduced FGSM, a computationally cheap and blazing-fast method to generate adversarial examples by taking a single step in the direction of the gradient. It also introduced the concept of 'adversarial training'.
+
+## Key Takeaway
+The primary insight is that adversarial vulnerability is largely a result of the extreme linear nature of neural network layers acting on high-dimensional data.
 
 ## Limitations
 FGSM is a single-step attack, meaning it is relatively weak compared to modern iterative attacks. Models defended solely against FGSM can easily be bypassed.
@@ -28,5 +33,6 @@ FGSM remains the 'Hello World' of adversarial attacks. Every new defense is stil
 [Towards Evaluating the Robustness of Neural Networks](./evaluating_robustness_cw.md)
 
 ---
+
 > **Educational Note:**
 > This summary is an original educational interpretation written to help readers understand the historical importance and core contribution of the paper. Please refer to the official publication for the complete methodology and results.
